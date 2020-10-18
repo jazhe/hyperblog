@@ -3,4 +3,6 @@ Esta es la historia de la 2da semana del reto
 La 2da semana del reto Roas to Code
 En el curso de Git y GitHub
 
+Master 1
+
 Es viernes pero seguimos y practicamos.
