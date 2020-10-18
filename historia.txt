@@ -5,4 +5,6 @@ En el curso de Git y GitHub
 
 Master 1
 
+Master 2
+
 Es viernes pero seguimos y practicamos.
