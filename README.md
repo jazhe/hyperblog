@@ -1,4 +1,4 @@
-# hyperblog :greenheart:
+# hyperblog :green_heart:
 Un blog increíble para el [curso de Git y GitHub](https://platzi.com/clases/git-github/ "curso de Git y GitHub") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y GitHub es lo que me hacía falta para aprender más allá y vover a tomarle cariño a la programación
 
